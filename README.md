@@ -1,2 +1,2 @@
-# Python-Gui
+# Python-GUI
 Python projects using PySimpleGUI
